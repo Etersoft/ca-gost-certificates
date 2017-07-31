@@ -45,9 +45,6 @@ done
 
 cd - >/dev/null
 
-#mkdir -p auc
-#cd auc
-
 # http://q.cryptopro.ru/center.htm
 #download http://q.cryptopro.ru/qcacer.p7b
 #https://e-trust.gosuslugi.ru/Shared/DownloadCert?thumbprint=D24B37FCFBB979D2D4A5D1549EC4E2029D15D8A2
